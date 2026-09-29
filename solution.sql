@@ -1,7 +1,5 @@
--- Create Database
 CREATE DATABASE StudentDB;
 
--- Use Database
 USE StudentDB;
 
 CREATE TABLE Department (
